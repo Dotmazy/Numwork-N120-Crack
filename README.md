@@ -3,7 +3,7 @@ In this repository there is all the source code i've made (bootloader) and used 
 If someone wanna help me cracking the n120 (if you're french it's even better because i'm french) send me a request on discord "dotmazy".
 
 # Informations
-- Here is the pcb of the N120 (it's not the official pcb so there could be some errors but it's mainly that): ~~https://pro.easyeda.com/editor#id=6ccc4bf0c31b4ff1b9705d23d34b74a4~~ (not working anymore)
+- Here is the pcb of the N120 (it's not the official pcb so there could be some errors but it's mainly that): The project is the file named "ProPrj_Numwork_N120_PCB.epro2", import it into easyeda to see it
 - Processor: STM32H725VET6
 - Screen: (waiting for information)
 
