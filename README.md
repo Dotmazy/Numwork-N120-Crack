@@ -66,7 +66,8 @@ If you have any information about these displays, feel free to contribute!
 
 ## Unlocking the NumWorks N120
 
-> ⚠️ **WARNING — WORK IN PROGRESS**
+> [!IMPORTANT]
+> **WORK IN PROGRESS**
 >
 > **DO NOT FOLLOW THIS TUTORIAL YET.**
 >
