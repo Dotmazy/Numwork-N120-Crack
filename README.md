@@ -29,9 +29,16 @@ An unofficial reconstruction of the N120 PCB is included in this repository.
 
 To view or edit it:
 
-1. Download the project file `ProPrj_Numwork_N120_PCB.epro2`.
+1. Download the project file **[ProPrj_Numwork_N120_PCB.epro2](https://github.com/Dotmazy/Numwork-N120-Crack/raw/refs/heads/main/ProPrj_Numwork_N120_PCB.epro2)**.
 2. Open [EasyEDA](https://easyeda.com/).
 3. Import the project.
+
+**Alternatively**, if you don't want to or can't use EasyEDA, two PDF files are available to view the PCB and schematics directly:
+
+- **[PCB.pdf](https://github.com/Dotmazy/Numwork-N120-Crack/raw/refs/heads/main/PCB.pdf)** — Contains the PCB's copper layers and silkscreen layers.
+- **[Schematic.pdf](https://github.com/Dotmazy/Numwork-N120-Crack/raw/refs/heads/main/Schematic.pdf)** — Contains all the circuit schematics in full color.
+
+These PDFs allow you to explore the board design without installing or opening EasyEDA.
 
 **Note:** This is not an official PCB design. Some connections or components may be incorrect, although the reconstruction should be relatively close to the original hardware.
 
